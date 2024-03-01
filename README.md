@@ -10,4 +10,4 @@ What does it do?
   7. This is just a proof of concept.
 Thanks.
 Download the Source Code.
-Note: You have to run the script twice after each choice.
+Note: You have to run the script again after each choice.
